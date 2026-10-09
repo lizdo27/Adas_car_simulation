@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Thư mục build của ROS 2 (Tuyệt đối không push)
+build/
+install/
+log/
+
+# Dữ liệu train AI thô (Tránh làm phình repo)
+*.mp4
+*.avi
+*.jpg
+*.png
+dataset_frames/
+output_result.jpg
