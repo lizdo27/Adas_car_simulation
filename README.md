@@ -2,9 +2,11 @@
 
 An Advanced Driver Assistance System (ADAS) simulation project built on ROS 2 and Gazebo. This project integrates artificial intelligence (YOLOv8) for semantic lane detection and a PID controller for an automated Lane Keep Assist (LKA) system.
 
-## 📸 Demo & Screenshots
+## 📸 System Validation & HUD Demo
 
-<img width="640" height="360" alt="frame_0000" src="https://github.com/user-attachments/assets/1c675235-35bf-4b5e-9aac-d46264d703f5" />
+![Lane Keep Assist System](media/detection_demo.jpg)
+*(Note: Real-time Lane Keep Assist validation. **Left:** `rqt_image_view` HUD displaying YOLOv8-seg lane detection (green lines), center trajectory calculation (red dots), and PID intervention status. **Right:** Gazebo Harmonic top-down view of the physical response).*<img width="1862" height="1166" alt="Untitled" src="https://github.com/user-attachments/assets/6820b259-6928-440e-b085-2e5ca3708af6" />
+
 
 
 <img width="1280" height="800" alt="campus_preview" src="https://github.com/user-attachments/assets/2c721479-a177-429f-97ed-ed2cb6628050" /><img width="900" height="600" alt="car_preview" src="https://github.com/user-attachments/assets/4ab9b7b3-9e6a-4793-82f0-a6da66fafc45" />
