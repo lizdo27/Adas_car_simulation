@@ -8,8 +8,9 @@ An Advanced Driver Assistance System (ADAS) simulation project built on ROS 2 an
 *(Note: Real-time Lane Keep Assist validation. **Left:** `rqt_image_view` HUD displaying YOLOv8-seg lane detection (green lines), center trajectory calculation (red dots), and PID intervention status. **Right:** Gazebo Harmonic top-down view of the physical response).*<img width="1862" height="1166" alt="Untitled" src="https://github.com/user-attachments/assets/6820b259-6928-440e-b085-2e5ca3708af6" />
 
 
+<img width="1862" height="1166" alt="Unẻtitled" src="https://github.com/user-attachments/assets/24b4dbad-c9f6-4155-bb2b-f18b53a7fa6f" />
 
-<img width="1280" height="800" alt="campus_preview" src="https://github.com/user-attachments/assets/2c721479-a177-429f-97ed-ed2cb6628050" /><img width="900" height="600" alt="car_preview" src="https://github.com/user-attachments/assets/4ab9b7b3-9e6a-4793-82f0-a6da66fafc45" />
+<img width="1862" height="1166" alt="Untitl2ed" src="https://github.com/user-attachments/assets/5c5a8c2d-f62c-4627-9d69-b06ee72c896a" />
 
 
 ---
